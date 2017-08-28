@@ -1,0 +1,19 @@
+0:
+2	81030	3979
+2	54040	8362
+
+1:
+1	49529	3655
+2	54032	8290
+
+2:
+1	171079	7254
+1	103583	5818
+
+Stat:
+ratio of A wins : 0.5
+ratio of B wins : 0.5
+ratio of Tie : 0
+
+ratio of (A wins + tie) : 0.5
+ratio of (B wins + tie) : 0.5

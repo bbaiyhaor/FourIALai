@@ -1,0 +1,19 @@
+0:
+1	22508	8
+1	27015	12
+
+1:
+1	18016	8
+1	18012	8
+
+2:
+1	18011	6
+1	18010	8
+
+Stat:
+ratio of A wins : 1
+ratio of B wins : 0
+ratio of Tie : 0
+
+ratio of (A wins + tie) : 1
+ratio of (B wins + tie) : 0

@@ -1,0 +1,19 @@
+0:
+1	54021	1652
+1	54030	3932
+
+1:
+1	54038	10332
+1	67535	7599
+
+2:
+1	40535	13187
+1	67534	18609
+
+Stat:
+ratio of A wins : 1
+ratio of B wins : 0
+ratio of Tie : 0
+
+ratio of (A wins + tie) : 1
+ratio of (B wins + tie) : 0

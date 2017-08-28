@@ -1,0 +1,19 @@
+0:
+1	58522	420
+2	49571	326
+
+1:
+2	85995	1142
+2	80725	501
+
+2:
+2	128965	1370
+1	81059	696
+
+Stat:
+ratio of A wins : 0.333333
+ratio of B wins : 0.666667
+ratio of Tie : 0
+
+ratio of (A wins + tie) : 0.333333
+ratio of (B wins + tie) : 0.666667

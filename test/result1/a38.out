@@ -1,0 +1,19 @@
+0:
+1	85533	4460
+1	67554	4056
+
+1:
+1	198088	1974
+1	94605	1667
+
+2:
+2	166595	3749
+1	90090	1937
+
+Stat:
+ratio of A wins : 0.833333
+ratio of B wins : 0.166667
+ratio of Tie : 0
+
+ratio of (A wins + tie) : 0.833333
+ratio of (B wins + tie) : 0.166667

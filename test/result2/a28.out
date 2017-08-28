@@ -1,0 +1,19 @@
+0:
+1	183869	3154
+1	40656	469
+
+1:
+1	67750	1498
+1	67765	893
+
+2:
+1	54249	1845
+8	0	5000
+
+Stat:
+ratio of A wins : 1
+ratio of B wins : 0
+ratio of Tie : 0
+
+ratio of (A wins + tie) : 1
+ratio of (B wins + tie) : 0

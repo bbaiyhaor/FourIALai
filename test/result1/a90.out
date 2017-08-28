@@ -1,0 +1,19 @@
+0:
+1	103536	1691
+1	63060	1374
+
+1:
+2	184584	5286
+1	130602	4781
+
+2:
+1	54066	3891
+1	81044	2811
+
+Stat:
+ratio of A wins : 0.833333
+ratio of B wins : 0.166667
+ratio of Tie : 0
+
+ratio of (A wins + tie) : 0.833333
+ratio of (B wins + tie) : 0.166667

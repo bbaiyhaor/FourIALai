@@ -1,0 +1,19 @@
+0:
+1	72024	1953
+1	99055	2860
+
+1:
+2	85563	5363
+1	63049	2377
+
+2:
+1	58537	1429
+1	85546	2246
+
+Stat:
+ratio of A wins : 0.833333
+ratio of B wins : 0.166667
+ratio of Tie : 0
+
+ratio of (A wins + tie) : 0.833333
+ratio of (B wins + tie) : 0.166667

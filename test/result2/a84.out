@@ -1,0 +1,19 @@
+0:
+1	54172	1344
+1	58736	4781
+
+1:
+1	122661	4331
+2	176144	2410
+
+2:
+1	45219	1766
+1	45178	9125
+
+Stat:
+ratio of A wins : 0.833333
+ratio of B wins : 0.166667
+ratio of Tie : 0
+
+ratio of (A wins + tie) : 0.833333
+ratio of (B wins + tie) : 0.166667
